@@ -1,0 +1,1 @@
+window.console("Hello, world!")
