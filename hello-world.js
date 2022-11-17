@@ -1,1 +1,0 @@
-window.console("Hello, world!")
